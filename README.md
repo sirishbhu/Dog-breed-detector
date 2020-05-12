@@ -1,10 +1,10 @@
-[image1]: ./images/sample_dog_output.png "Sample Output"
-
 ## Project Overview
 
 The project is a part of Udacity's Data Science Nanodegree.In this project,we will be given a dog's photo and the output will be the breed of the dog.If instead of dog,the image of a human will be given the output will be the most resembling breed of the dog.
 
-![Sample Output][image1]
+### Motivation
+The motivation behind this project is to learn the working of Deep Learning models and transfer learning from a previously trained model.  
+
 
 ### Libraries
 
