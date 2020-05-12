@@ -20,13 +20,20 @@ The libraries used in this project are as follows-
 9.PIL
 
 ### Files
-dog_app.ipynb -Our main code notebook  
-bottleneck features- For storing pre-trained models  like VGG-16 and ResNet-50 so that we don't need to train our model from scratch.  
-haarcascades- For storing pre-trained models to detect human faces.  
-images- For storing images to check performance of our model.  
-requirements- For storing requirements and dependencies according to OS.  
-saved_models- For storing trained CNN models.  
-extract_bottleneck_features.py- For extracting bottleneck features of the specified pre-trained model.  
+
+#### dog_app.ipynb -Our main code notebook  
+
+#### bottleneck features- For storing pre-trained models  like VGG-16 and ResNet-50 so that we don't need to train our model from scratch.  
+
+#### haarcascades- For storing pre-trained models to detect human faces.
+
+#### images- For storing images to check performance of our model.  
+
+#### requirements- For storing requirements and dependencies according to OS. 
+
+#### saved_models- For storing trained CNN models.  
+
+#### extract_bottleneck_features.py- For extracting bottleneck features of the specified pre-trained model.  
 
 ### Instructions
 
