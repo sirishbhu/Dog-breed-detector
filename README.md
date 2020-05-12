@@ -128,4 +128,4 @@ The final CNN model using transfer learning from Resnet-50 gave a fair enough ac
 ### Acknowledgements
 
 The credit for the dataset and code template goes to udacity.  
-The implementation procedure can be found in more detail [here]()
+
