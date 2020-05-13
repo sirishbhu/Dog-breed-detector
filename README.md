@@ -37,10 +37,10 @@ The libraries used in this project are as follows-
 
 ### Results
 
-First,we achieved an accuracy of 6% using our own CNN model made from scratch which was very bad.Then, using VGG-16 pre-trained model we achieved an accuracy of 42% which was also bad.  
-The final CNN model using transfer learning from Resnet-50 gave a fair enough accuracy of 82% and was able to predict the breeds almost crrectly for the given samples.
+First,we achieved an accuracy of 4.3% using our own CNN model made from scratch which was very bad.Then, using VGG-16 pre-trained model we achieved an accuracy of 43% which was also bad.  
+The final CNN model using transfer learning from Resnet-50 gave a fair enough accuracy of 80% and was able to predict the breeds almost crrectly for the given samples.
 
 ### Acknowledgements
 
 The credit for the dataset and code template goes to udacity.  
-
+You can read more about the project in this [blog](https://medium.com/@sirishbhudolia88/dog-breed-classifier-project-e47dbb6c6881)
